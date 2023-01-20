@@ -9,3 +9,4 @@
 
 - Here, Brad uses class to add styling and id's to work with dynamic elements using JS.
 
+- If you don't want to show any scrollbars you can use in css the overflow property. (overflow: hidden;)
