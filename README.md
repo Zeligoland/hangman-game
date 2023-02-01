@@ -12,3 +12,5 @@
 - If you don't want to show any scrollbars you can use in css the overflow property. (overflow: hidden;)
 
 - To turn a string into an array, we can use the split method.
+
+- With e.keyCode you can recognize the asccii code of the pressed letter in the keyboard
